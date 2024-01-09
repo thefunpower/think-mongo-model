@@ -1,6 +1,6 @@
 <?php  
 use lib\Validate;
-class model{
+class think_model{
     protected $table   = '';
     protected $primary = 'id';
 

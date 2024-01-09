@@ -1,0 +1,20 @@
+{
+    "name": "thefunpower/think-mongo-model",
+    "type": "library",
+    "description": "think mongo model",
+    "keywords": ["php"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "ken"
+        }
+    ],
+    "require": {
+        
+    },
+    "autoload": { 
+        "files": [ 
+            "./model.php"
+        ]
+    }
+}
